@@ -1,0 +1,9 @@
+.episodes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.episode_buttons {
+    display: flex;
+    justify-content: space-between;
+}
